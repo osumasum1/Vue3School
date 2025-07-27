@@ -17,7 +17,7 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    component: HomeView
+    component: StudentView // Default to StudentView for home
   },
   {
     path: '/about',
