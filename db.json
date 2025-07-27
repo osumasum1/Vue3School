@@ -1,0 +1,81 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "lastName": "Pozo",
+      "motherLastName": "Gómez",
+      "birthDate": "1988-07-31",
+      "grade": "1ro Basico"
+    },
+    {
+      "name": "Osmar",
+      "lastName": "Navarro2",
+      "motherLastName": "Garcia",
+      "birthDate": "1988-07-20",
+      "grade": "2do basico",
+      "id": 2
+    },
+    {
+      "name": "Carlaup",
+      "lastName": "Garcia",
+      "motherLastName": "Navarro1",
+      "birthDate": "1985-07-21",
+      "grade": "3ro basico",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Nata",
+      "lastName": "Vargas",
+      "motherLastName": "Vargas",
+      "birthDate": "1985-07-24",
+      "grade": "1ro Secundaria"
+    },
+    {
+      "name": "Lidia",
+      "lastName": "Navarro",
+      "motherLastName": "Navarro",
+      "birthDate": "1988-07-23",
+      "grade": "2do Secundaria",
+      "id": 5
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "subject": "Matematicas",
+      "note": 33,
+      "date": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "subject": "Musica",
+      "note": 39,
+      "date": "2025-07-23"
+    },
+    {
+      "id": 3,
+      "studentId": 3,
+      "subject": "Arte",
+      "note": "12",
+      "date": "2025-07-08"
+    },
+    {
+      "id": 4,
+      "studentId": 4,
+      "subject": "Quimica",
+      "note": "77",
+      "date": "2025-07-24"
+    },
+    {
+      "id": 5,
+      "studentId": 2,
+      "subject": "Sociales",
+      "note": "45",
+      "date": "2025-07-01"
+    }
+  ]
+}

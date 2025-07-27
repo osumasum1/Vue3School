@@ -1,0 +1,23 @@
+.base-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.base-table th,
+.base-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+.base-table th {
+    background-color: #be8f72;
+    text-align: left;
+}
+
+.base-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.base-table tr:hover {
+    background-color: #a0c2e6;
+}

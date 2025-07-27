@@ -1,0 +1,37 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "lastName": "Pozo",
+      "motherLastName": "Gómez",
+      "birthDate": "1988-07-31",
+      "grade": "1ro Basico"
+    },
+    {
+      "name": "Osmar",
+      "lastName": "Navarro2",
+      "motherLastName": "Garcia1",
+      "birthDate": "1988-07-20",
+      "grade": "2do basico",
+      "id": 2
+    },
+    {
+      "name": "Carlaup",
+      "lastName": "Garcia",
+      "motherLastName": "Navarro1",
+      "birthDate": "1985-07-21",
+      "grade": "3ro basico",
+      "id": 3
+    }
+  ],
+  "scores": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "subject": "Matematicas",
+      "note": 6.5,
+      "date": "2023-10-01"
+    }
+  ]
+}
