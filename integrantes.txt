@@ -1,0 +1,9 @@
+Practica1 Vue3
+
+Nombre(s) de integrante(s):
+- Osmar Garcia Navarro
+
+Pasos para iniciar el proyecto
+1. npm install
+2. npm run json-server
+3. npm run serve
